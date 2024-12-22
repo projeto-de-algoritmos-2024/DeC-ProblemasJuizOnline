@@ -1,31 +1,36 @@
-# NomedoProjeto
+# Dividir e Conquistar- Problemas Juiz Online
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 4<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/1021901  |  Cecília Ernesto Silva Quaresma |
+| 22/1022050  |  Larissa de Jesus Vieira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto faz parte da disciplina de Projeto de Algoritmos, ministrada pelo Professor Maurício Serrano.<br>Para a segunda entrega, cujo o tema era Dividir e Conquistar, resolvemos 3 exercícios de dificuldade média e alta de juízes online, com foco no Leetcode.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+<center><img src="https://github.com/projeto-de-algoritmos-2024/DeC-ProblemasJuizOnline/blob/master/medianSorted/MediansortedAC.png?raw=true" alt="submissao_MedianSorted" width="800"/></center>
+<center><i><b>Imagem 1:</b> Submissão da questão 4(LeetCode)</i></center>
+<br></br>
+<center><img src="https://github.com/projeto-de-algoritmos-2024/DeC-ProblemasJuizOnline/blob/master/subarraysK/subarraysDesc.png?raw=true" alt="submissao_CountSubarrays" width="800"/></center>
+<center><i><b>Imagem 2:</b> Submissão da questão 2488 (LeetCode)</i></center>
+<br></br>
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
+Todos os códigos podem ser rodados com o compilador padrão de C++ dentro do terminal;
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Ao executar os códigos disponíveis, é possível checar seu funcionamento por meio dos casos de teste disponíveis nos prints de cada questão resolvida. Também é possível testar o código no próprio site do juiz online e ver se é aceito.<br>Links:
+* [Problema 4 - Difícil](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+* [Problema 2488 - Difícil](https://leetcode.com/problems/count-subarrays-with-median-k/description/)
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
+## Vídeo da apresentação 
 
 
