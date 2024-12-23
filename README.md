@@ -1,6 +1,6 @@
 # Dividir e Conquistar - Problemas Juiz Online
 
-**Número da Lista**: 4<br>
+**Número da Lista**: 8<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
@@ -35,5 +35,6 @@ Ao executar os códigos disponíveis, é possível checar seu funcionamento por 
 * [Problema 973 - Média](https://leetcode.com/problems/k-closest-points-to-origin/description/)
 
 ## Vídeo da apresentação 
+[![DividirEConquistar](https://img.youtube.com/vi/e8nSb9tekbU/0.jpg)](https://www.youtube.com/watch?v=e8nSb9tekbU)
 
 
